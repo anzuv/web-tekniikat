@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(193, 154, 230);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+img {
+    border: 2px;
+    padding: 5px;
+}
+h1 {
+    color: rgb(43, 55, 226);
+}
+
+h2 {
+    color: blueviolet;
+}
